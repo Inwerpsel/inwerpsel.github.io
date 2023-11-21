@@ -1,0 +1,16 @@
+{
+"restoreTerminals.terminals": [
+    {
+      "splitTerminals": [
+        // {
+        //   "name": "vite server",
+        //   "commands": ["vite"]
+        // },
+        {
+          "name": "run server",
+          "commands": ["bundle exec jekyll serve"]
+        },
+      ]
+    },
+  ]
+}
